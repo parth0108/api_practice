@@ -53,6 +53,7 @@ class _MyAppState extends State<MyApp> {
               Text(demo1.userId.toString()),
               Text(demo1.id.toString()),
               Text(demo1.title),
+              Text(demo1.title),
 
             ],
           ),
